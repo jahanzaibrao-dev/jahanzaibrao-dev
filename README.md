@@ -44,7 +44,7 @@ Note: All of the above new packages I mentioned are active and widely accepted b
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Amazon Web Services" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" style="padding-right:10px;" />
-<img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="50px"  />
+<img align="left" alt="NestJS" width="50px" src="https://nestjs.com/img/logo-small.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatsby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg" style="padding-right:10px;" />
