@@ -9,7 +9,7 @@ Focused to deliver application with up-to-date best practices coding standards w
 
 ---
 
-Working as CEO & Solution Architect for Tetrahex.
+Working as Full Stack Developer for Tetrahex.
 
 - 🔭 I’ve worked on:
   - [sasJS](https://github.com/sasjs) framework includes JS, TS, ReactJS, CLI, NodeJS, ExpressJS
